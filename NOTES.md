@@ -14,3 +14,7 @@ Especifica como um autor do pacote npm pode designar um pacote como preferindo a
 },
 // ...
 ```
+
+## `$npm link`
+
+[https://docs.npmjs.com/cli/link](https://docs.npmjs.com/cli/link)
