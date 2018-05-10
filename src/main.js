@@ -10,4 +10,4 @@ program
   .option('-A, --amount <amount>', 'Value in Bitcoin to converted. (Default: 1)')
   .parse(process.argv);
 
-console.log(convertBitcoin(program.currency, program.amount));
+convertBitcoin(program.currency, program.amount);
